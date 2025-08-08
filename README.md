@@ -40,8 +40,6 @@ This project implements an **ESP32-based Medibox** that reminds users to take th
 | Breadboard & Wires| as needed|
 
 ---
-
-
 ---
 
 ## 🔌 Circuit Diagram
@@ -54,6 +52,7 @@ Wiring diagram is included as `diagram.jsin` .
 ### 1. Time Synchronization
 - Uses **NTP server** to sync local time based on a UTC offset.
 - Offset can be configured through the menu system.
+
 
 ### 2. Alarm System
 - Supports 2 configurable alarms.
@@ -95,6 +94,17 @@ Wiring diagram is included as `diagram.jsin` .
 | `MINIMUM-SERVO-ANGLE`| Subscribe| `float`   | Servo motor angle              |
 
 ---
+
+
+## 🧪 Screenshots
+
+
+---![Dashboard.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\Dashboard.png")
+
+![Wowki.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\Wowki.png")
+
+![NodeRed.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\NodeRed.png")
+
 ## 🛠️ Future Improvements
 
 - Add cloud storage (Firebase/ThingSpeak)
