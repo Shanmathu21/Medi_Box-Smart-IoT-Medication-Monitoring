@@ -96,11 +96,11 @@ Wiring diagram is included as `diagram.jsin` .
 
 ## 🧪 Screenshots
 
-
----![Dashboard.png](https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/Dashboard.png)
-
+### 1.Dashboard
+![Dashboard.png](https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/Dashboard.png)
+### 2.Wowki.png
 ![Wowki.png](https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/Wowki.png)
-
+### 3.NodeRed.png
 ![NodeRed.png](https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/NodeRed.png)
 ## 🛠️ Future Improvements
 
