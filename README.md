@@ -103,7 +103,7 @@ Wiring diagram is included as `diagram.jsin` .
 
 ![Wowki.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\Wowki.png")
 
-![NodeRed.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\NodeRed.png")
+![NodeRed.png]("Images/NodeRed.png")
 
 ## 🛠️ Future Improvements
 
