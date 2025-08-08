@@ -66,12 +66,12 @@ Wiring diagram is included as `diagram.jsin` .
 ### 4. MQTT Communication
 - Connects to `test.mosquitto.org`
 - Publishes:
-  - `TEMP` → temperature data
+  - `Temperature` → temperature data
   - `Light intensity` → average light data
 - Subscribes:
-  - `sampling_interval` → time between light sensor readings
-  - `sending_interval` → time between MQTT publishes
-  - `MINIMUM-SERVO-ANGLE` → adjust servo motor angle remotely
+  - `Sampling_Period` → time between light sensor readings
+  - `Sending_Period` → time between MQTT publishes
+  - `Publish_Servo_Angle` → adjust servo motor angle remotely
 
 ### 5. Node-RED Dashboard
 - Use the provided `dashboard.json` to visualize:
@@ -87,13 +87,11 @@ Wiring diagram is included as `diagram.jsin` .
 
 | Topic               | Direction | Data Type | Description                     |
 |---------------------|-----------|-----------|---------------------------------|
-| `TEMP`              | Publish   | `float`   | Current temperature (°C)       |
+| `Temperature`       | Publish   | `float`   | Current temperature (°C)       |
 | `Light intensity`   | Publish   | `float`   | Normalized light intensity     |
-| `sampling_interval` | Subscribe | `float`   | Time between light readings (s)|
-| `sending_interval`  | Subscribe | `float`   | Time between data sends (s)    |
-| `MINIMUM-SERVO-ANGLE`| Subscribe| `float`   | Servo motor angle              |
-
----
+| `Sampling_Period` | Subscribe | `float`   | Time between light readings (s)|
+| `Sending_Period`  | Subscribe | `float`   | Time between data sends (s)    |
+| `Publish_Servo_Angle`| Subscribe| `float`   | Servo motor angle              |
 
 
 ## 🧪 Screenshots
