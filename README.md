@@ -99,12 +99,12 @@ Wiring diagram is included as `diagram.jsin` .
 ## 🧪 Screenshots
 
 
----![Dashboard.png](Images/Dashboard.png")
+---![Dashboard.png]("https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/Dashboard.png
+")
 
-![Wowki.png]("Images/NodeRed.png/Wowki.png")
+![Wowki.png]("https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/Wowki.png")
 
-![NodeRed.png]("Images/NodeRed.png")
-
+![NodeRed.png]("https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring/blob/main/Images/NodeRed.png")
 ## 🛠️ Future Improvements
 
 - Add cloud storage (Firebase/ThingSpeak)
