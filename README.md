@@ -99,9 +99,9 @@ Wiring diagram is included as `diagram.jsin` .
 ## 🧪 Screenshots
 
 
----![Dashboard.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\Dashboard.png")
+---![Dashboard.png](Images/Dashboard.png")
 
-![Wowki.png]("C:\Users\Mathusan\Medi_Box-Smart-IoT-Medication-Monitoring\Images\Wowki.png")
+![Wowki.png]("Images/NodeRed.png/Wowki.png")
 
 ![NodeRed.png]("Images/NodeRed.png")
 
